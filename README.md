@@ -24,7 +24,7 @@ What is included in the attachments:
 Attached is a zip file with 3 items and includes a word document with installation instructions.
  
 The zip file:
-•	Includes a certificate, this you will have to install first, as it proves to your computer that the code was developed by myself and asks your computer to trust it.
-•	Includes the add-in file which will need to be copied to the C:\Users\<Windows username>\AppData\Roaming\Microsoft\Addins\ folder
-•	Installation instructions in word document format.
+-Includes a certificate, this you will have to install first, as it proves to your computer that the code was developed by myself and asks your computer to trust it.
+-Includes the add-in file which will need to be copied to the C:\Users\<Windows username>\AppData\Roaming\Microsoft\Addins\ folder
+-Installation instructions in word document format.
 
