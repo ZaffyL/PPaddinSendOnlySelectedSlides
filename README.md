@@ -8,9 +8,9 @@ Some of us have that situation, where people ask us for particular PowerPoint sl
 
 ## What this toolbar does?
 Is create 3 buttons, which do the following:
-1.The first button saves a copy of the PowerPoint presentation to your desktop only with the Selected Slides.
-2.The second button saves a copy of the PowerPoint presentation only with the Selected Slides to your desktop, and attaches it to a new email.
-3.The 3rd Button is a help button in case you forget what the buttons do.
+1. The first button saves a copy of the PowerPoint presentation to your desktop only with the Selected Slides.
+2. The second button saves a copy of the PowerPoint presentation only with the Selected Slides to your desktop, and attaches it to a new email.
+3. The 3rd Button is a help button in case you forget what the buttons do.
  
 ## Disclaimer:
 I know some of the consulting firms buy software packages to add this functionality to PowerPoint, I just thought it would be cool and save some of our time if we had this feature.
@@ -25,7 +25,7 @@ Attached is a zip file with 3 items and includes a word document with installati
  
 ### The zip file:
 
-*Includes a certificate, this you will have to install first, as it proves to your computer that the code was developed by myself and asks your computer to trust it.
-*Includes the add-in file which will need to be copied to the C:\Users\<Windows username>\AppData\Roaming\Microsoft\Addins\folder
-*Installation instructions in word document format.
+* Includes a certificate, this you will have to install first, as it proves to your computer that the code was developed by myself and asks your computer to trust it.
+* Includes the add-in file which will need to be copied to the C:\Users\<Windows username>\AppData\Roaming\Microsoft\Addins\folder
+* Installation instructions in word document format.
 
